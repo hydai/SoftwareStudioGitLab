@@ -10,6 +10,10 @@ public class Student {
 		return this.studentID;
 	}
 
+	public void enrollCourse() {
+	    System.out.println("EnrollCourse");
+        }
+
 	public void printInfo() {
 		System.out.println(this.studentID);
 		System.out.println(this.name);
