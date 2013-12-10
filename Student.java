@@ -10,4 +10,8 @@ public class Student {
 		return this.studentID;
 	}
 
+	public void printInfo() {
+		System.out.println(this.name);
+		System.out.println(this.studentID);
+	}
 }
