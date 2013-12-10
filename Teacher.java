@@ -1,5 +1,5 @@
 public class Teacher {
-	private String name = "HC";
+	private String name = "Prof.Wang";
 	private String[] courses = {"Software Studio", "HCI Research Method"};
 	
 	public getName() {
