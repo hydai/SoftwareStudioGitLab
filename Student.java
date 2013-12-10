@@ -1,6 +1,6 @@
 public class Student {
-	private String name = "Tau-Heng Yeo";
-	private String studentID = "101065428";
+	private String name = "Hung-ying Tai";
+	private String studentID = "101062124";
 	
 	public String getName() {
 		return this.name;
