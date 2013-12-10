@@ -9,4 +9,9 @@ public class Teacher {
 	public getCourses() {
 		return this.courses;
 	}
+
+	public printInfo() {
+		System.out.println(this.name);
+		System.out.println(this.courses);
+	}
 }
